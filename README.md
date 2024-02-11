@@ -68,3 +68,4 @@ _fee system model diagram (below)_:
 _fee system dashboard (below)_:
 
 ![fee system dashboard](https://github.com/jakejosh6751/Excel-Fee-Management-System/blob/main/fee%20system%20dashboard.png)
+[See excel fee system navigation video](https://youtu.be/mQhUsPdicq0?si=eYmGoO7HKT3i1gTF)
