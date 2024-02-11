@@ -68,4 +68,3 @@ _fee system model diagram (below)_:
 _fee system dashboard (below)_:
 
 ![fee system dashboard](https://github.com/jakejosh6751/Excel-Fee-Management-System/blob/main/fee%20system%20dashboard.png)
-[See Interactive Dashboard](https://app.powerbi.com/groups/579e1741-4356-4184-93fb-13e61310efdc/reports/d4017250-464e-4403-8326-8921f853f2ee/ReportSection?experience=power-bi)
